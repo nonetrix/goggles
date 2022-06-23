@@ -3,7 +3,5 @@
 ! public: true
 ! author: Nonetrix
 
-$discard 
-reddit.com
-$discard
-*reddit.com
+$discard,site=*.reddit.com
+$discard,site=reddit.com
